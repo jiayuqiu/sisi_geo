@@ -1,0 +1,7 @@
+venv/
+venv_test/
+dist/
+build/
+*.egg-info/
+*.c
+*.so
